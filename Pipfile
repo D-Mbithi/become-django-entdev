@@ -22,6 +22,7 @@ typing-extensions = "==4.10.0"
 whitenoise = "==6.6.0"
 
 [dev-packages]
+flake8 = "*"
 
 [requires]
 python_version = "3.11"
